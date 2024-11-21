@@ -1,0 +1,1 @@
+Here  a program fi :w⟶{0,1}0is defined mathematically where w is a set of all programmable words and is considered as the domain, and {0,1}0 is the set of all finite or infinite strings of 0 & 1  and is considered as the co-domain.
